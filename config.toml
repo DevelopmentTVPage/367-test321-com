@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Test project"
+baseURL = "https:\/\/test321.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+cookiedomain = "test321.com"
